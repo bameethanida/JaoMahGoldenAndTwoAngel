@@ -1,6 +1,6 @@
-# JaoMahGoldenAndTwoAngel
+# Premier League
 
-**JaoMahGoldenAndTwoAngel** is a web application about the Premier League Football. The web application has many features such as viewing all seasons teams datas. Datas provided on each team include team statistics, team information, golden score, latest 10 match result, and Home-Away statistic shown as a bar chart. Match analyze results of the Premier League Football compare two selected teams showing their statistics and comparing with a line graph, pie chart, and two attribute-graphs. Our web application provide a new perspective so that users can predict which team has more chance of winning. 
+**Premier League** is a web application about the Premier League Football. The web application has many features such as viewing all seasons teams datas. Datas provided on each team include team statistics, team information, golden score, latest 10 match result, and Home-Away statistic shown as a bar chart. Match analyze results of the Premier League Football compare two selected teams showing their statistics and comparing with a line graph, pie chart, and two attribute-graphs. Our web application provide a new perspective so that users can predict which team has more chance of winning. 
 
 Team Members
 ---
